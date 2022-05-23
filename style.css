@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+span {
+    font-size: 22px;
+    line-height: 24px;
+    color: #5f6368;
+    position: relative;
+    top: 2px;
+}
+
+.nav a {
+    color: #5f6368;
+    font-weight: 700;
+    padding: 8px 0;
+    margin: 0 16px;
+}
+
+.nav {
+    border-bottom: 1px solid lightgrey;
+}
+
+.active {
+    border-bottom: 3px solid #0d70fd;
+}
+
+.main {
+    padding: 32px;
+    max-width: 978px;
+    margin: auto;
+}
+
+h2 {
+    padding: 64px 0 0 0;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+p {
+    margin: 10px 0;
+    padding-top: 20px;
+}
